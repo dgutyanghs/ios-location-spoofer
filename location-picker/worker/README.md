@@ -79,3 +79,5 @@ https://ios-location-picker.你的账号.workers.dev/?token=你的TOKEN
 - 数据存在 **KV**（非本地文件），个人用量免费额度足够
 - KV 有秒级最终一致性，保存后 Loon 最多等约 60 秒缓存刷新
 - 无需自行管理 HTTPS 证书
+
+&configUrl=https://mypos.9527878.xyz/loc.json?token=mypos

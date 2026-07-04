@@ -9,8 +9,10 @@
   "kv_namespaces": [
     {
       "binding": "LOC_KV",
-      "id": "d386fe4ad15b4ac6b55ca224b69c9eff",
-      "preview_id": "f50f441fe0ba424a962998c43c408faf"
+      "id": "1f9d48bf20e747a59a690e1c0306c8f1",
+      "preview_id": "5aea7c2df0a94c889543ac7a7e7a1c9b",
+      "remote": true
     }
+    // token is 'mypos' in cloudflare
   ]
 }
